@@ -18,7 +18,8 @@ INSTALLATION
 ### Install
 
 * In you have installed Git than in your Webroot folder type a git command as you usualy doing:
-``git clone git@github.com:linkuha/yii2-url-shortener``
+
+``git clone https://github.com/linkuha/yii2-url-shortener.git``
 
 * If no, you can download Archive File (zip) from this repository anyway and extract all contains to Webroot.
 
