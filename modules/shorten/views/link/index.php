@@ -81,7 +81,7 @@ $(document).ready(function() {
 					'id' => 'full-url',
 					'onfocus' => "if (this.value == 'URL...') {this.value = '';}",
 					'onblur' => "if (this.value == '') {this.value = 'URL...';}",
-					'style' => 'width:50%; border-radius:3px;'
+					'style' => 'width:70%; border-radius:3px;'
 					]
 				) ?>
 			<hr/>
