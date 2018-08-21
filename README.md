@@ -24,3 +24,7 @@ INSTALLATION
 * If no, you can download Archive File (zip) from this repository anyway and extract all contains to Webroot.
 
 * Create new database and setup DB connection parameters in common-local.php
+
+* Apply migrations with console yii app in root directory:
+
+``php yii migrate/up``
